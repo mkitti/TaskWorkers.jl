@@ -1,0 +1,4 @@
+name = "TaskWorkers"
+uuid = "ee7f02c5-ded6-4b3d-9019-139ec4c36115"
+authors = ["Mark Kittisopikul <markkitt@gmail.com>"]
+version = "0.1.0"
